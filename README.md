@@ -4,7 +4,7 @@ I hope you find something useful here. If not, please do not hesitate to ask if 
 
 - PhD in Astronomy (PhD thesis accepted with honours)
 - 20+ years of diversified coding and development experience
-- languages: Python, Fortrtan, SQL, HTML, CSS
+- Languages: Python, Fortrtan, SQL, HTML, CSS
 - Avid Data Scientist with proficiency in problem solving, designing research projects, programming data analysis tools, handling large data sets, and processing complicated images.
 - Looking for a role as a data scientist, preferably remote unless in Inverness region in Scotland.
 
