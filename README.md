@@ -6,7 +6,8 @@ I hope you find something useful here. If not, please do not hesitate to ask if 
 - 20+ years of diversified coding and development experience
 - Languages: Python, Fortran, SQL, HTML, CSS
 - Avid Data Scientist with proficiency in problem solving, designing research projects, programming data analysis tools, handling large data sets, and processing complicated images.
-- Looking for a role as a data scientist, preferably remote unless in Inverness region in Scotland.
+- Currently working for The Highland Council doing data analysis, data engineering, and data science.
+- Eventually looking for another role as a data scientist, preferably in Inverness region in Scotland.
 
 
 
